@@ -9,5 +9,5 @@ https://github.com/free46000/MultiItem
 
 附註
 --------
-子RecyclerView 取材自以下資源                                                             
+子RecyclerView 取材自以下資源                                                               
 https://github.com/yarolegovich/DiscreteScrollView
